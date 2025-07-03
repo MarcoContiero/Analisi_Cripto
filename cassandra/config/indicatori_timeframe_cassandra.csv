@@ -1,0 +1,14 @@
+Indicatore,15m,1H,4H,1D,1W,Note
+RSI,1,1,1,1,1,Valido su tutti i TF
+MACD,0,1,1,1,1,Rumoroso su 15m
+EMA,1,1,1,1,1,Valido sempre
+Bollinger,1,1,1,1,0,Inutile su TF lenti
+Parabolic SAR,1,1,1,1,0,Simile a Bollinger
+Volume,1,1,1,1,1,Sempre utile
+Multi-timeframe,0,1,1,1,1,Usato solo per analisi aggregata
+Pattern tecnici,1,1,1,1,0,Pattern troppo rari su 1W
+Fair Value Gaps (FVG),0,1,1,1,0,Usato da 1H a 1D
+Gann,0,0,1,1,1,Solo su TF lenti
+Fibonacci,0,1,1,1,1,Swing medio-lungo
+Ciclica,0,0,1,1,1,Solo H4+
+Fase Lunare (solo alert),0,0,0,1,1,Solo alert visivo

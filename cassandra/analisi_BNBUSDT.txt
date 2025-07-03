@@ -1,0 +1,221 @@
+# === INFO GENERALI ===
+Coin: BNBUSDT
+Prezzo: 660.43
+Scenario finale: long
+Punteggio totale: 3.55
+Timeframe dominante: 4h
+
+# === PUNTEGGI PER TIMEFRAME ===
+1w: 31 (neutro)
+1d: 31 (neutro)
+4h: 43 (neutro)
+1h: 32 (neutro)
+15m: 37 (neutro)
+
+# === DETTAGLI INDICATORI PER TIMEFRAME ===
+
+[1w]
+RSI: Ellipsis (long)
+MACD: 9.2965 (neutro)
+EMA: 660.43 (long)
+Bollinger Bands: 660.43 (neutro)
+Parabolic SAR: 566.14 (long)
+Volume: 380449.15 (flat)
+Pattern Tecnici: n/a (long)
+FVG: n/a (neutro)
+Gann: n/a (long)
+Fibonacci: 660.43 (neutro)
+Ciclica: 660.43 (long)
+ADX: n/a (debole)
+Ichimoku: n/a (long)
+Fasi Lunari: n/a (🌗)
+massimi_minimi: n/a (neutro)
+
+[1d]
+RSI: Ellipsis (long)
+MACD: 1.216 (neutro)
+EMA: 660.43 (long)
+Bollinger Bands: 660.43 (neutro)
+Parabolic SAR: 617.52 (long)
+Volume: 71135.66 (flat)
+Pattern Tecnici: n/a (neutro)
+FVG: n/a (neutro)
+Gann: n/a (long)
+Fibonacci: 660.43 (neutro)
+Ciclica: 660.43 (long)
+ADX: n/a (moderato)
+Ichimoku: n/a (long)
+Fasi Lunari: n/a (🌗)
+massimi_minimi: n/a (neutro)
+
+[4h]
+RSI: Ellipsis (long)
+MACD: 3.2609 (neutro)
+EMA: 660.43 (long)
+Bollinger Bands: 660.43 (potenziale breakout)
+Parabolic SAR: 653.12 (long)
+Volume: 23318.48 (short)
+Pattern Tecnici: n/a (short)
+FVG: n/a (neutro)
+Gann: n/a (short)
+Fibonacci: 660.43 (neutro)
+Ciclica: 660.43 (long)
+ADX: n/a (moderato)
+Ichimoku: n/a (long)
+Fasi Lunari: n/a (🌗)
+massimi_minimi: n/a (neutro)
+
+[1h]
+RSI: Ellipsis (long)
+MACD: 1.1769 (neutro)
+EMA: 660.43 (neutro)
+Bollinger Bands: 660.43 (potenziale breakout)
+Parabolic SAR: 658.97 (long)
+Volume: 1775.15 (flat)
+Pattern Tecnici: n/a (short)
+FVG: n/a (neutro)
+Gann: n/a (short)
+Fibonacci: 660.43 (neutro)
+Ciclica: 660.43 (long)
+ADX: n/a (moderato)
+Ichimoku: n/a (neutro)
+Fasi Lunari: n/a (🌗)
+massimi_minimi: n/a (neutro)
+
+[15m]
+RSI: Ellipsis (long)
+MACD: -0.1001 (short)
+EMA: 660.43 (neutro)
+Bollinger Bands: 660.43 (potenziale breakout)
+Parabolic SAR: 659.97 (long)
+Volume: 661.12 (flat)
+Pattern Tecnici: n/a (neutro)
+FVG: n/a (short)
+Gann: n/a (long)
+Fibonacci: 660.43 (short)
+Ciclica: 660.43 (neutro)
+ADX: n/a (moderato)
+Ichimoku: n/a (short)
+Fasi Lunari: n/a (🌗)
+massimi_minimi: n/a (neutro)
+
+# === OSSERVAZIONI TECNICHE ===
+📌 Coin: BNBUSDT
+
+⏱ Timeframe: 1w
+  🔹 CORE:
+     - RSI: long (10)
+     - MACD: neutro (2)
+     - EMA: long (10)
+     - Bollinger Bands: neutro (2)
+     - Parabolic SAR: long (5)
+     - Volume: flat (2)
+  🔹 OPTIONAL:
+     - Pattern Tecnici: long (7)
+     - FVG: neutro (0)
+     - Gann: long (5)
+     - Fibonacci: neutro (2)
+     - Ciclica: long (5)
+     - ADX: debole (0)
+     - Ichimoku: long (0)
+     - Fasi Lunari: 🌗 (0)
+     - massimi_minimi: neutro (1)
+
+⏱ Timeframe: 1d
+  🔹 CORE:
+     - RSI: long (10)
+     - MACD: neutro (2)
+     - EMA: long (10)
+     - Bollinger Bands: neutro (2)
+     - Parabolic SAR: long (5)
+     - Volume: flat (2)
+  🔹 OPTIONAL:
+     - Pattern Tecnici: neutro (0)
+     - FVG: neutro (0)
+     - Gann: long (5)
+     - Fibonacci: neutro (0)
+     - Ciclica: long (5)
+     - ADX: moderato (0)
+     - Ichimoku: long (0)
+     - Fasi Lunari: 🌗 (0)
+     - massimi_minimi: neutro (1)
+
+⏱ Timeframe: 4h
+  🔹 CORE:
+     - RSI: long (10)
+     - MACD: neutro (2)
+     - EMA: long (10)
+     - Bollinger Bands: potenziale breakout (8)
+     - Parabolic SAR: long (5)
+     - Volume: short (8)
+  🔹 OPTIONAL:
+     - Pattern Tecnici: short (10)
+     - FVG: neutro (0)
+     - Gann: short (5)
+     - Fibonacci: neutro (0)
+     - Ciclica: long (5)
+     - ADX: moderato (0)
+     - Ichimoku: long (0)
+     - Fasi Lunari: 🌗 (0)
+     - massimi_minimi: neutro (1)
+
+⏱ Timeframe: 1h
+  🔹 CORE:
+     - RSI: long (10)
+     - MACD: neutro (2)
+     - EMA: neutro (5)
+     - Bollinger Bands: potenziale breakout (8)
+     - Parabolic SAR: long (5)
+     - Volume: flat (2)
+  🔹 OPTIONAL:
+     - Pattern Tecnici: short (10)
+     - FVG: neutro (0)
+     - Gann: short (5)
+     - Fibonacci: neutro (0)
+     - Ciclica: long (5)
+     - ADX: moderato (0)
+     - Ichimoku: neutro (0)
+     - Fasi Lunari: 🌗 (0)
+     - massimi_minimi: neutro (1)
+
+⏱ Timeframe: 15m
+  🔹 CORE:
+     - RSI: long (10)
+     - MACD: short (7)
+     - EMA: neutro (5)
+     - Bollinger Bands: potenziale breakout (8)
+     - Parabolic SAR: long (5)
+     - Volume: flat (2)
+  🔹 OPTIONAL:
+     - Pattern Tecnici: neutro (0)
+     - FVG: short (5)
+     - Gann: long (5)
+     - Fibonacci: short (5)
+     - Ciclica: neutro (3)
+     - ADX: moderato (0)
+     - Ichimoku: short (0)
+     - Fasi Lunari: 🌗 (0)
+     - massimi_minimi: neutro (1)
+
+🔄 Multi-timeframe:
+     - Scenario: neutro (2)
+
+🎯 Scenario Finale:
+     - Direzione: long
+     - Punteggio Totale: 3.55
+
+# === CONCLUSIONE GLOBALE ===
+Analisi globale per coin: N/A
+Scenario finale: long con punteggio totale 3.55
+
+Punteggi per timeframe:
+ - 1w: Core=31, Optional=20
+ - 1d: Core=31, Optional=11
+ - 4h: Core=43, Optional=21
+ - 1h: Core=32, Optional=21
+ - 15m: Core=37, Optional=19
+
+Multi-timeframe scenario: neutro con punteggio 2
+
+Considerazioni:
+ - Segnale long ma con forza moderata, attenzione ai pullback.
